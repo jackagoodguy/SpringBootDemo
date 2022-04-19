@@ -1,3 +1,6 @@
+## 此项目 kafka的配置比较详细，参考价值较高
+
+
 ## 相关文章
 
 1.[SpringMVC配置太多？试试SpringBoot](https://xiaour.github.io/2018/05/02/The_SpringMVC_configuration_is_too_much_Try_SpringBoot/)
